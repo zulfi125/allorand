@@ -292,7 +292,10 @@ http://worker-tx.nodium.xyz/
 
 If Showing Error close MobaXterm and open again and go to below directory:
 ```sh
-cd allora-chain/allora-huggingface-walkthrough#
+cd allora-chain
+```
+```sh
+cd allora-huggingface-walkthrough#
 ```
 after go this directory run again logs:
 ```sh
