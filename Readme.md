@@ -289,3 +289,9 @@ docker compose logs -f
 ```
 9. **View wallet/worker tx**
 http://worker-tx.nodium.xyz/
+If Showing Error close MobaXterm and open again and go to below directory:
+cd allora-chain/allora-huggingface-walkthrough#
+after go this directory run again logs:
+docker compose logs -f
+
+
