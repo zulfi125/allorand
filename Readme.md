@@ -183,6 +183,7 @@ nano config.json
 * "your phase" {change_your_wallet}
 ----> if error you can change rpc url
 RPC: https://allora-rpc.testnet-1.testnet.allora.network/
+OR  https://rpc.ankr.com/allora_testnet
 
 5. **edit APP.PY**
 
